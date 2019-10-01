@@ -15,7 +15,7 @@ public class LaunchBrowser {
 		System.out.println("commiting changes to this file for git");
 		System.out.println("Ani is updating");
 		driver.get("https://mets.cdc.gov/");
-		// driver.close();
+		 driver.close();
 	}
 
 }
