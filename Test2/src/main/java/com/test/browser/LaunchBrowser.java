@@ -13,7 +13,7 @@ public class LaunchBrowser {
 				"C:\\Selenium_workspace\\TestSelenium\\Drivers\\chromedriver.exe");
 		driver = new ChromeDriver();
 		System.out.println("commiting changes to this file for git");
-		
+		System.out.println("Ani is updating");
 		driver.get("https://mets.cdc.gov/");
 		// driver.close();
 	}
