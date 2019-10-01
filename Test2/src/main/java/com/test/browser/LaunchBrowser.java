@@ -16,6 +16,8 @@ public class LaunchBrowser {
 		System.out.println("Ani is updating");
 		driver.get("https://mets.cdc.gov/");
 		 driver.close();
+		 
+		 
 	}
 
 }
