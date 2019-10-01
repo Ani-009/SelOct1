@@ -12,8 +12,9 @@ public class LaunchBrowser {
 		System.setProperty("webdriver.chrome.driver",
 				"C:\\Selenium_workspace\\TestSelenium\\Drivers\\chromedriver.exe");
 		driver = new ChromeDriver();
+		
 		driver.get("https://mets.cdc.gov/");
-		// driver.close();
+		 driver.close();
 	}
 
 }
