@@ -13,7 +13,8 @@ public class LocatorByClass {
 		// TODO Auto-generated method stub
 
 		System.setProperty("webdriver.chrome.driver",
-				"C:\\Selenium_workspace\\TestSelenium\\Drivers\\chromedriver.exe");
+				"C:\\Users\\VIJUAPPU\\Desktop\\Selenium_browser_drivers\\chromedriver.exe");
+				//"C:\\Selenium_workspace\\TestSelenium\\Drivers\\chromedriver.exe");
 		driver = new ChromeDriver();
 		// driver.get("https://mets.cdc.gov/");
 		driver.get("https://www.gmail.com/");

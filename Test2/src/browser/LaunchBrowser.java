@@ -10,7 +10,7 @@ public class LaunchBrowser {
 		// TODO Auto-generated method stub
 
 		System.setProperty("webdriver.chrome.driver",
-				"C:\\Selenium_workspace\\TestSelenium\\Drivers\\chromedriver.exe");
+				"C:\\Softwares\\Selenium_workspace\\TestSelenium\\Drivers\\chromedriver.exe");
 		driver = new ChromeDriver();
 		System.out.println("Adi");
 		driver.get("https://mets.cdc.gov/");
