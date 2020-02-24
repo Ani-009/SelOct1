@@ -20,6 +20,7 @@ public class LaunchBrowser {
 
 		System.out.println("Finally learned conflicts");
 		System.out.println("Still learning ");
+		System.out.println("Hi");
 
 		 driver.close();
 		 
