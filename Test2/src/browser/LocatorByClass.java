@@ -14,7 +14,7 @@ public class LocatorByClass {
 
 		System.setProperty("webdriver.chrome.driver",
 				"C:\\Users\\VIJUAPPU\\Desktop\\Selenium_browser_drivers\\chromedriver.exe");
-				//"C:\\Selenium_workspace\\TestSelenium\\Drivers\\chromedriver.exe");
+
 		driver = new ChromeDriver();
 		// driver.get("https://mets.cdc.gov/");
 		driver.get("https://www.gmail.com/");
