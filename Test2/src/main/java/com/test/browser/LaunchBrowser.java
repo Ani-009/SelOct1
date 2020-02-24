@@ -19,6 +19,7 @@ public class LaunchBrowser {
 		driver.get("https://mets.cdc.gov/");
 
 		System.out.println("Finally learned conflicts");
+		System.out.println("Still learning ");
 
 		 driver.close();
 		 
